@@ -25,4 +25,6 @@ pip install –r - requirements.txt
 Лекции  ML System Design. Autumn 23/24 - https://ods.ai/tracks/ml-system-design-23
 
 ./book/Manning.Designing.Deep.Learning.Systems.pdf
+
+
 ./book/rules_of_ml.pdf
