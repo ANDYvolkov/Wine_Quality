@@ -3,6 +3,7 @@
 
 # Настройки среды выполднения
 cd c:\OCV
+
 python -m venv OCVven
 
 c:\OCV\OCVven\Scripts\activate.bat
